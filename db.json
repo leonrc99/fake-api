@@ -2,6 +2,6 @@
   "users": {
     {"id": 1, "name": "Leonardo Rodrigues", "email": "leonardo@email.com"},
     {"id": 2, "name": "Joelson Coelho", "email": "joelson@email.com"},
-    {"id": 3, "name": "Ramon Ferreira", "email": "ramon@email.com"},
+    {"id": 3, "name": "Ramon Ferreira", "email": "ramon@email.com"}
   }
 }
